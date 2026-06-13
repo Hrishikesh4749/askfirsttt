@@ -17,7 +17,7 @@ import streamlit as st
 # Config
 # --------------------------------------------------------------------------
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://your-render-url.onrender.com"
 
 st.set_page_config(page_title="AI Memory Chat", page_icon="🧠", layout="wide")
 
